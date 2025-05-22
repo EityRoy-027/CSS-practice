@@ -1,0 +1,13 @@
+div{
+    background-color:blue;
+
+    color: white;
+}
+h1,h2,h3{
+    color: pink;
+}
+<style>
+button{
+    color:orange;
+}
+</style>
