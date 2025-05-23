@@ -1,0 +1,29 @@
+#one{
+    text-align: center;
+}
+#two{
+    text-decoration:blue underline ;
+}
+a{
+    text-decoration:none;
+}
+p {
+    font: size 520px;
+    text-transform: uppercase;
+    color:burlywood
+}
+#four{
+    font-weight:bold;
+}
+#three{
+    font-family:  arial,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:pink;
+}
+#five{
+    line-height:20px;
+    color:aqua;
+}
+footer{
+    color:cadetblue;
+    
+}
