@@ -1,0 +1,18 @@
+h1{
+  
+  width:2000px;
+
+    color:rgb(12, 211, 144);
+}
+p{
+    color:rgb(108, 178, 236);
+    border: 2px  dotted salmon;
+    border-radius: 10px;
+}
+#one{
+   padding: 100px 10px 10px 10px; /*top,right,bottom,,left*/
+}
+#two{
+    margin:1px 2px 3px 4px; /*top,right,bottom,,left*/
+}
+}
