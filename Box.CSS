@@ -1,18 +1,54 @@
 h1{
   
-  width:2000px;
+  width:auto;
+  height:auto;
 
     color:rgb(12, 211, 144);
 }
-p{
+
+#zero{
     color:rgb(108, 178, 236);
     border: 2px  dotted salmon;
     border-radius: 10px;
 }
+
 #one{
-   padding: 100px 10px 10px 10px; /*top,right,bottom,,left*/
+   padding:10px 10px 10px 10px;
+   background-color: rgb(165, 218, 109);
+   text-align:center;
+   font-weight:200;
+    /*top,right,bottom,,left*/
 }
+
 #two{
-    margin:1px 2px 3px 4px; /*top,right,bottom,,left*/
+    margin:1px 2px 3px 4px;
+ /*top,right,bottom,,left*/
 }
+#three{
+    height: 100;
+    color:white
+}
+#four{
+    color:blue
+}
+#myBox {
+    width: 600px; 
+    height: 350px; 
+    background-color: lightblue; 
+    border: 5px solid darkblue; 
+    margin: 50px auto; 
+    
+    
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    
+    border-radius: 15px; 
+}
+
+
+.circle {
+    width: 60px; 
+    height: 60px; 
+    background-color: black;
 }
