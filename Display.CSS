@@ -1,0 +1,57 @@
+
+
+div
+{
+    
+    height:200 px;
+    width:200 px;
+    padding:25px;
+    margin:25px;
+  
+/* for same line*/  
+}
+
+#box1
+{ 
+    background-color: blueviolet;
+    display: inline-block;
+} 
+
+#box2
+{ background-color: rgb(21, 192, 112);
+    display: inline-block;
+} 
+#box3{ background-color: rgb(210, 133, 17); 
+    display:block;
+     visibility:none; /* ekhane visibility none korar por o kno output e dekha jacche na result ta*/
+    } 
+#box4
+{ background-color: rgb(237, 22, 62);
+     display:block;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*div{
+    background-color:blue;
+    height:100 px;
+    width:100 px;
+    padding:25px;
+    margin:25px;
+}
