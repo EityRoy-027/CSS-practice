@@ -35,7 +35,7 @@ div
 }
 #box4{
     height:100px;
-    width:100%;
+    width:100vw;
     background-color:rgb(57, 134, 210);
     position:fixed;
    
@@ -56,4 +56,26 @@ div
     right:30px;
     left:1px;
 }
+#box6{
+    height:100px;
+    width:100px;
+    background-color:rgb(210, 57, 185);
+    position: absolute;
+    z-index:2;
+   
+    top:200px;
+    left:5px;}
+
+    #box7{
+    height:100px;
+    width:100px;
+    background-color:rgb(199, 101, 21);
+    position: absolute;
+   
+    top:180px;
+    left:100px;
+    bottom:1px;
+    z-index:-1;
+    }
+
 
