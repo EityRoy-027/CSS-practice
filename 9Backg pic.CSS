@@ -2,6 +2,7 @@
 #box1{
     background-image:url("pic-1.jpeg");
     background-size:cover;
+    /*for same folder*/
 }
 
 body{
@@ -48,3 +49,4 @@ div
     
     left:5px;*/
 }
+
