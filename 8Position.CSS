@@ -27,20 +27,23 @@ div
     width:100px;
     background-color:rgb(149, 195, 21);
     position:absolute;
-    top:5px;
-    bottom:20px;
-    right:30px;
-    left:5px;
+   top:2px;
+   right:30px;
+    /*bottom:2px;
+    
+    left:5px;*/
 }
 #box4{
     height:100px;
-    width:100px;
+    width:100%;
     background-color:rgb(57, 134, 210);
     position:fixed;
-    top:5px;
-    bottom:20px;
-    right:30px;
+   
+    bottom:0px;
     left:1px;
+    /*right:30px;
+    left:1px;
+     top:5px;*/
 }
 
 #box5{
