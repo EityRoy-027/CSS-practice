@@ -1,0 +1,53 @@
+div{
+    height:100px;
+    width:100px;
+    background-color:aqua;
+    border:2px solid black;
+    display:inline-block;
+}
+    #box1{
+        position:absolute;
+    animation-name: coloranimate1;
+    animation-duration:3s;
+    animation-timing-function:ease-in;
+    animation-delay:2s;
+    animation-iteration-count: 5;
+}
+
+
+    @keyframes coloranimate1{
+        from{
+            background-color: blue;
+        }
+        to{
+            background-color:red;
+        }
+     div:hover{
+
+   }
+
+
+
+   #box2{
+     height:200px;
+    width:200px;
+    background-color:aqua;
+    position:absolute;
+     animation-name: coloranimate2;
+    animation-duration:3s;
+    animation-timing-function:ease-in;
+    animation-delay:2s;
+    animation-iteration-count: 5;
+    
+}
+
+@keyframes coloranimate2
+        from{
+            background-color: rgb(35, 209, 58);
+        }
+        to{
+            background-color:rgb(52, 213, 16);
+        }
+        div:hover{
+
+        }
