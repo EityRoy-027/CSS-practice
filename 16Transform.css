@@ -1,0 +1,30 @@
+div{
+    height:200px;
+    width:200px;
+    background-color:bisque;
+    
+    display:inline-block;
+
+}
+#box1{
+    height:150px;
+    width:150px;
+    text-align:center;
+    background-color:darkcyan;
+    transform:rotateZ(45deg);
+}
+#box2{
+    background-color:rgb(116, 204, 22);
+   transform:scale(2,1);
+}
+#box3{
+    background-color:rgb(224, 193, 19);
+   transform:translateX(20px,30px);
+   /*for X-axis:right,left and for Y-axis:-(-ve=up and +ve=down)*/
+}
+#box4:hover{
+    transition-property:all;
+    transition:2s ease-in 3s;
+    background-color:rgb(239, 21, 206);
+    transform:skew(90 degree);
+}
