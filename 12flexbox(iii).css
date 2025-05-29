@@ -1,0 +1,28 @@
+#content{
+    height:500px;
+    width:500px;
+    border:2px solid black;
+
+    background-color:antiquewhite;
+}
+div{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    display:inline-block;
+    align-items:center;
+  
+}
+#box1{
+    background-color:blueviolet;
+    align-items:center;
+}
+#box2{
+    background-color:rgb(43, 80, 226);
+}
+#box3{
+    background-color:rgb(119, 226, 43);
+}
+#box4{
+    background-color:rgb(226, 186, 43);
+}

@@ -2,8 +2,8 @@ body{
     text-align:center;
 }
 div{
-    height:100px;
-    width:100px;
+    height:80px;
+    width:80px;
     border: 2px solid black
     display:inline-block;
 }
@@ -12,13 +12,12 @@ div{
     border: 10px;
     height:350px;
     width:800px;
-   display:flex;
-    background-color:antiquewhite;
-    border:2px black;
-    display:flex;
-    direction:column;
-    justify-content:flex-start; /*ekhane column dewar por o output e row result dkha jacche kno?*/
    
+    background-color:antiquewhite;
+    border:2px solid black;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-space; 
   
 }
 #box1{
